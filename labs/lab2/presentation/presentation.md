@@ -21,6 +21,10 @@ slide_level: 2
 aspectratio: 169
 section-titles: true
 theme: metropolis
+mainfont: PT Serif
+romanfont: PT Serif
+monofont: PT Serif
+sansfont: PT Sans
 header-includes:
  - \metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
  - '\makeatletter'
