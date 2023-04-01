@@ -1,3 +1,7 @@
+# 1.0.7 (2023-04-01)
+## Features: 
+* Add lab8
+
 # 1.0.6 (2023-03-25)
 ## Features: 
 * Add lab7
